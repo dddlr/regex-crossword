@@ -1,0 +1,3 @@
+In this repository are my solutions to the puzzles at [Regex Crossword](https://regexcrossword.com/). The purpose is to keep track of how I answered each puzzle, so I don't have to re-solve them very often.
+
+Note that I haven't sought any help from other people when doing these puzzles, or even looked at other people's solutions *after* completing them - the only help I sought was the website's own regex reference (the Help section on the website) and [Regexr](https://regexr.com/) (for occasionally testing regex strings). If you haven't done the puzzles already, I recommend completing them before looking at anyone's solutions, similar to what I did.
